@@ -43,4 +43,4 @@ Links to reading
 
 [Class 02](https://github.com/carlosecantera/301-Reading-Notes/blob/main/Class02.md)
 
-[Class 03]()
+[Class 03](https://github.com/carlosecantera/301-Reading-Notes/blob/main/Class03.md)
